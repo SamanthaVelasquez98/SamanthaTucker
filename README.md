@@ -1,6 +1,6 @@
 # 👋🏻 Hi, I’m @SamanthaTucker
 ### I am a Full Stack Software Engineer and Recent Graduate of General Assembly
-- 🌱 I’m currently learning TypeScript, Python, Django
+- 🌱 I’m currently learning QA Testing Methods
 - 📫 How to reach me:
 * Main email: samtucker9801@gmail.com 
 * LinkedIn: https://www.linkedin.com/in/samantha-tucker-1827a9128/
