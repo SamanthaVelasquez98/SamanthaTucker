@@ -1,9 +1,8 @@
-# 👋🏻 Hi, I’m @SamanthaTucker
-### I am a Full Stack Software Engineer and Recent Graduate of General Assembly
-- 🌱 I’m currently learning QA Testing Methods
+# 👋🏻 Hi, I’m @SamanthaVelasquez
+### I am a Full Stack Software Engineer with a passion for Front End Web Development
 - 📫 How to reach me:
 * Main email: samtucker9801@gmail.com 
-* LinkedIn: https://www.linkedin.com/in/samantha-tucker-1827a9128/
+* LinkedIn: (https://www.linkedin.com/in/samanthavelasquez9801/)
 
 
 
